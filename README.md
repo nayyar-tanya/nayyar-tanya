@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayyar-tanya
 - 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning statistical analysis and machine learning
 - 💞️ I’m looking to collaborate on data-science projects
 - 📫 How to reach me nayyar.tanya02@gmail.com
 
